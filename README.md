@@ -64,8 +64,3 @@ Possuo experiência com *desenvolvimento web*, bem como com *desenvolvimento mob
     align="left" alt="Intellij" title="Intellij" width="30px" style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"
 /> 
-
-<img 
-    align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right: 20px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-/> 
